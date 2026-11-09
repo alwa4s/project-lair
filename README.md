@@ -2,8 +2,6 @@
 
 The lair of my projects. Look if you dare!
 
-Welcome to the den. This is where I keep the things I've built, broken, fixed, and documented while studying cybersecurity at RIT Dubai.
-
 ## What's Lurking Inside
 
 | Project | What it is | Stack |
